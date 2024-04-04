@@ -8,14 +8,12 @@
 ## Team Members
 
 << List team member names >>
-
+Amanda Joa and Breanna Cheung
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
-
-***    
+ A cat game where the characer jumps over obstacles and it gets harder the higher the levels get. 
 
 ## GUI Design
 
@@ -31,11 +29,11 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. << Start menu >>
+2. << Moveable character >>
+3. << Game over screen >>
+4. << Obstacle Collisions >>
+5. << Points >>
 
 ### Classes
 
