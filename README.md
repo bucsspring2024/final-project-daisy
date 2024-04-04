@@ -2,12 +2,11 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
-## CS110 Final Project  << Semester, Year >>
+# Cat Game
+## CS110 Final Project  << Fall, 2024 >>
 
 ## Team Members
 
-<< List team member names >>
 Amanda Joa and Breanna Cheung
 ***
 
@@ -29,11 +28,11 @@ Amanda Joa and Breanna Cheung
 
 ### Features
 
-1. << Start menu >>
-2. << Moveable character >>
-3. << Game over screen >>
-4. << Obstacle Collisions >>
-5. << Points >>
+1. Start menu
+2. Moveable character
+3. Game over screen
+4. Obstacle Collisions
+5. Points
 
 ### Classes
 
