@@ -35,9 +35,27 @@ Amanda Joa and Breanna Cheung
 5. Points
 
 ### Classes
+Cat.py
+    def __init__(self, x, y, img_file):
+        - initiliazes the cat object
+    def update_position(self, new_x, new_y):
+        - updates the position of the cat
+    def jump(self):
+        - makes the cat jump
+     def duck(self):
+        - makes the cat duck
 
-- << You should have a list of each of your classes with a description >>
+Controller.py
+    def __init__(self):
+        - initalizes the controller object
+    def mainloop(self):
+        - main loop which detects collisions, redraws and displays the neext frame and caps the frame rate
+    def update_models(self):
+        - detects collisions and updates models
+     def redraw(self):
+        - redraws the next game
 
+    
 ## ATP
 
 | Step                 |Procedure             |Expected Results                   |
