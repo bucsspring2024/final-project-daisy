@@ -73,3 +73,40 @@ Test Steps:
 6. Press the down arrow key.
 7. Verify that the player's cat ducks.
 Expected Outcome: The players cat should move right, up, and down in response to the arrow key inputs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test Case 3: Game Over Condition
+Test Description: Confirm that the game ends when the player's cat hits an obstacle.
+Test Steps:
+1. Start the game.
+2. Play until the player hits an obstacle.
+3. Verify that the game displays a "Game Over" message.
+Expected Outcome: The game should display a "Game Over" message when the player's cat hits an obstacle.
+
+Test Case 4: Menu Navigation
+Test Description: Test the navigation through the game's main menu.
+Test Steps:
+1. Start the game.
+2. Navigate through the main menu options (Start Game, Options, Quit).
+3. Verify that each option is selectable and leads to the expected actions.
+Expected Outcome: The main menu should allow the player to navigate through options and select them.
+
+Test Case 5: Error Handling
+Test Description: Verify that the program handles unexpected inputs gracefully.
+1. Test Steps:
+2. Start the game.
+3. Enter invalid characters or inputs during gameplay.
+4. Verify that the program does not crash and displays appropriate error messages.
+Expected Outcome: The program should handle unexpected inputs without crashing and display user-friendly error messages.
