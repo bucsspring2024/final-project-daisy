@@ -99,14 +99,14 @@ Test Case 4: Menu Navigation
 Test Description: Test the navigation through the game's main menu.
 Test Steps:
 1. Start the game.
-2. Navigate through the main menu options (Start Game, Options, Quit).
+2. Navigate through the main menu options (Start Game, Options, Quit Game).
 3. Verify that each option is selectable and leads to the expected actions.
-Expected Outcome: The main menu should allow the player to navigate through options and select them.
+Expected Outcome: The main menu should allow the player to navigate through and select options.
 
 Test Case 5: Error Handling
-Test Description: Verify that the program handles unexpected inputs gracefully.
+Test Description: Verify that the program handles unexpected inputs effectively.
 1. Test Steps:
 2. Start the game.
-3. Enter invalid characters or inputs during gameplay.
+3. Enter invalid characters or inputs while playing.
 4. Verify that the program does not crash and displays appropriate error messages.
-Expected Outcome: The program should handle unexpected inputs without crashing and display user-friendly error messages.
+Expected Outcome: The program should not crash when receiving unexpected inputs and should display user-friendly error messages.
