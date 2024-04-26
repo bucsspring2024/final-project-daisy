@@ -63,3 +63,13 @@ Controller.py
 |  1                   | Run Counter Program  |GUI window appears with count = 0  |
 |  2                   | click count button   | display changes to count = 1      |
 etc...
+Test Case 1: Player Movement: Verify that the player's cat moves right, up, and down as expected.
+Test Steps: 
+1. Start the game.
+2. Press the right arrow key.
+3. Verify that the player's cat moves right.
+4. Press the up arrow key.
+5. Verify that the player's cat jumps.
+6. Press the down arrow key.
+7. Verify that the player's cat ducks.
+Expected Outcome: The players cat should move right, up, and down in response to the arrow key inputs.
