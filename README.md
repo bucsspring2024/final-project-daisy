@@ -74,18 +74,18 @@ Test Steps:
 7. Verify that the player's cat ducks.
 Expected Outcome: The players cat should move right, up, and down in response to the arrow key inputs.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Test Case 2: Collision Detection: Ensure that collisions between the player's cat and obstacles are detected correctly.
+Test Steps:
+1. Start the game.
+2. Player's cat jumps and hits an obstacle
+3. Verify that the cat hits the obstacle.
+4. Player's cat ducks and hits an obstacle.
+5. Verify that the cat hits an obstacle.
+6. Player's cat jumps over obstacle.
+7. Verify that the doesn't hit the obstacle.
+8. Player's cat ducks under the obstacle.
+9. Verify that the cat doesn't hit the obstacle.
+Expected Outcome: Obstacles should correctly collide with the cat. 
 
 Test Case 3: Game Over Condition
 Test Description: Confirm that the game ends when the player's cat hits an obstacle.
