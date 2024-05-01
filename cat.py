@@ -28,7 +28,6 @@ class Cat:
         args: None
         return: None
         """
-        # Implementation to make the cat jump
 
     def duck(self):
         """
@@ -36,4 +35,3 @@ class Cat:
         args: None
         return: None
         """
-        # Implementation to make the cat duck
