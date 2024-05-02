@@ -22,7 +22,7 @@ Amanda Joa and Breanna Cheung
 
 ### Final Design
 
-![final gui](assets/gui.jpg)
+![final gui](assets/finalgui.jpg)
 
 ## Program Design
 
